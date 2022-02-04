@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amanbasnet
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently working in the field of web development
-- 💞️ I’m looking to collaborate on projects based on Javascript,React js
+- 🌱 I’m currently working in the field of ...
+- 💞️ I’m looking to collaborate on projects based on ...
 - 📫 How to reach me 
  amanbasnet2000@gmail.com
 
